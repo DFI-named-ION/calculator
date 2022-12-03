@@ -6,7 +6,7 @@ namespace Calculator
     {
         private CalcManager _calc;
 
-        public void Dialog()
+        public DialogManager()
         {
             _calc = new CalcManager();
         }
